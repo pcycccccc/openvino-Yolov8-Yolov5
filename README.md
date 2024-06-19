@@ -1,0 +1,2 @@
+# openvino-Yolov8-Yolov5
+使用openvino推理方式对Yolov8模型和Yolov5模型进行快速推理，使其在CPU上的性能发挥地更好。
